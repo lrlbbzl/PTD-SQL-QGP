@@ -1,0 +1,6 @@
+bitsandbytes
+transformers
+wandb
+datasets
+peft==0.6.2
+gpustat

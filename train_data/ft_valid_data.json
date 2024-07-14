@@ -1,0 +1,1202 @@
+[
+    {
+        "query": "Which students not enrolled in any course? Find their personal names.",
+        "response": "Set operation"
+    },
+    {
+        "query": "Find the last name and gender of the students who are playing both Call of Destiny and Works of Widenius games.",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the task details, task ids, and project ids for the progrects that are detailed as 'omnis' or have at least 3 outcomes?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the distinct first names of the students who have vice president votes and reside in a city whose city code is not PIT?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the drivers' last names and id who had 11 pit stops and participated in more than 5 race results?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Find courses that ran in Fall 2009 or in Spring 2010.",
+        "response": "Set operation"
+    },
+    {
+        "query": "what are the names of the channels that broadcast in both morning and night?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Find all the customer last names that do not have invoice totals larger than 20.",
+        "response": "Set operation"
+    },
+    {
+        "query": "Which countries do not have a stadium that was opened after 2006?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the drivers' first names,last names, and ids for all those that had more than 8 stops or participated in more than 5 races?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the dates for the documents with both 'GV' type and 'SF' type expenses?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the ids of the students who either registered or attended a course?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the appelations for wines produced after 2008 but not in the Central Coast area?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Which film is rented at a fee of 0.99 and has less than 3 in the inventory? List the film title and id.",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the names of tourist attraction that Alison visited but Rosalind did not visit?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the personal names used both by some course authors and some students?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Which themes have had corresponding exhibitions that have had attendance both below 100 and above 500?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Show all locations which don't have a train station with at least 15 platforms.",
+        "response": "Set operation"
+    },
+    {
+        "query": "Show the headquarters that have both companies in banking industry and companies in oil and gas industry.",
+        "response": "Set operation"
+    },
+    {
+        "query": "Which employees have either destroyed a document or made an authorization to do so? Return their employee ids.",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the names of the artists that are from the UK and sang songs in English?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What is the title of a course that is listed in both the Statistics and Psychology departments?",
+        "response": "Set operation"
+    },
+    {
+        "query": "From what date and to what date do the staff work on a project that has the most staff and has staff in a leader role?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Find the name of the company that produces both furnitures with less than 6 components and furnitures with more than 10 components.",
+        "response": "Set operation"
+    },
+    {
+        "query": "Show the studios that have produced films with director \"Nicholas Meyer\" and \"Walter Hill\".",
+        "response": "Set operation"
+    },
+    {
+        "query": "Give me a list of cities whose temperature in Mar is lower than that in July and which have also served as host cities?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the names of the services that have never been used?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Show all cities where at least one customer lives in but no performer lives in.",
+        "response": "Set operation"
+    },
+    {
+        "query": "Give the names of tracks that do not have a race in the class 'GT'.",
+        "response": "Set operation"
+    },
+    {
+        "query": "Which country has both stadiums with capacity greater than 60000 and stadiums with capacity less than 50000?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the ids of all students who don't play sports?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Find all procedures which cost more than 1000 or which physician John Wen was trained in.",
+        "response": "Set operation"
+    },
+    {
+        "query": "Show ids of students who don't play video game.",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the account details with the largest value or with value having char '5' in it?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Find the names of states that have some college students playing in the mid position but not in the goalie position.",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the names of the dorm that does not have a TV Lounge?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What is the name and id of the staff who recorded the fault log but has not contacted any visiting engineers?",
+        "response": "Set operation"
+    },
+    {
+        "query": "Which customer had at least 2 policies but did not file any claims? List the customer details and id.",
+        "response": "Set operation"
+    },
+    {
+        "query": "Which nations have both hosts of age above 45 and hosts of age below 35?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What are the names of storms that did not affect two or more regions?",
+        "response": "Set operation"
+    },
+    {
+        "query": "What is the most common status across all cities?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Return the name of the characteristic that is most common across all products.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the number of phones for each accreditation type.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the average price and score of wines for each appelation?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "List first name and last name of customers that have more than 2 payments.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "List all directors along with the number of films directed by each director.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Count the number of documents with the type code BK that correspond to each product id.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is detail of the student who registered the most number of courses?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Please show the industries of companies in descending order of the number of companies.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Show the name of track with most number of races.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the name of the department that offers the highest total credits?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the zip codes that have an average mean humidity below 70 and had at least 100 trips come through there?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Show the average share count of transactions for different investors.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Show the names of products that are in at least two events in ascending alphabetical order of product name.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Which people severed as governor most frequently?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "how many degrees were conferred between 1998 and 2002?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the job ID for those jobs which average salary is above 8000.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the names of the directors who made exactly one movie excluding director NULL?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the employee id of the head whose department has the least number of employees?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "How many patients do each physician take care of? List their names and number of patients they take care of.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "For each project id, how many staff does it have? List them in increasing order.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "For each advisor, report the total number of students advised by him or her.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the names of projects that require more than 300 hours, and how many scientists are assigned to each?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Which skill is used in fixing the most number of faults? List the skill id and description.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "How many rooms have king beds? Report the number for each decor type.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the name, phone number and email address of the customer who made the largest number of orders?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the positions of players whose average number of points scored by that position is larger than 20?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the name and hours of project that has the most number of scientists.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "For each country, what is the average elevation of that country's airports?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "For each aircraft that has won an award, what is its name and how many time has it won?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the structure of the document with the least number of accesses?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Give the codes of document types that have more than 2 corresponding documents.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "How many people are under 40 for each gender?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Show all locations with only 1 station.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Count the number of programs broadcast for each time section of a day.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the most common competition type?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "List countries that have more than one swimmer.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Which store has most the customers?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the average price range of hotels for each each star rating code?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the names of colleges that have two or more players, listed in descending alphabetical order?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "How many actors have appeared in each musical?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find number of tracks in each genre?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the most popular file format?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the names of different tracks, and how many races has each had?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Which buildings have more than one company offices? Give me the building names.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "At which restaurant did the students spend the least amount of time? List restaurant and the time students spent on in total.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Who are the nominees who have been nominated more than two times?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Show the names and ids of tourist attractions that are visited at least two times.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the names of stadiums that the most swimmers have been to.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the name and price of the product that has been ordered the greatest number of times.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Show the product name and total order quantity for each product.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Return the ids and details corresponding to projects for which there are more than two documents.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the main indstries and total market value for each industry?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the name and id of the team with the most victories in 2008 postseason?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the names of the customers who have made two or less orders?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the accreditation level that more than 3 phones use.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "How many employees does each role have? List role description, id and number of employees.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What instrument is used the most?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Show the transaction type code that occurs the fewest times.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the average salary for each job title?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the number of different departments in each school whose number of different departments is less than 5.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "How many phones belongs to each accreditation type?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the names of the states that have 2 to 4 employees living there?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Which college has the most authors with submissions?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the name of the swimmer who has at least 2 records.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "For every student who is registered for some course, how many courses are they registered for?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the different budget type codes, and how many documents are there for each?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the average prices of hotels grouped by their pet policy.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the movie titles and average rating of the movies with the lowest average rating?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Show all product names and the total quantity ordered for each product name.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the name of the department with the fewest professors?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the three countries that the least players are from?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the first and last name of the faculty members who participated in at least one activity? For each of them, also show the number of activities they participated in.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the names of the albums that have more than 10 tracks?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Return the number of music festivals of each category.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Show all locations and the total number of platforms and passengers for all train stations in each location.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the number of classes in each school.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the last name of the artist who sang the most songs?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "Find the number of rooms for each bed type.",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What is the area for the appelation which produced the most wines prior to 2010?",
+        "response": "Combination operation"
+    },
+    {
+        "query": "What are the names and opening hours of the tourist attractions that can be accessed by bus or walk?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many drivers were in the Australian Grand Prix held in 2009?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "what are the employee ids and job titles for employees in department 80?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many architects haven't built a mill before year 1850?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the distinct ages of students who have secretary votes in the fall election cycle.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Return the claim start date for the claims whose claimed amount is no more than the average",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the first names of all students in course ACCT-211?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the last name of the staff whose email address contains \"wrau\".",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the name of the project that requires the fewest number of hours, and the names of the scientists assigned to it?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the name of the institution the author \"Katsuhiro Ueno\" belongs to?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many students whose are playing the role of goalie?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the number of routes whose destinations are Italian airports?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of tracks that contain the the word you in them?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many members have the black membership card?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many universities have a campus fee higher than average?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Return the dates of birth for entrepreneurs who have either the investor Simon Woodroffe or Peter Jones.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the grapes, appelations, and wines with scores above 93, sorted by Name?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the first name and gpa of the students whose gpa is lower than the average gpa of all students.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the ids of all the order items whose product id is 11.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find names of all students who took some course and got A or C.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the title of the course that was offered at building Chandler during the fall semester in the year of 2010?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the names of songs whose genre is modern or language is English.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of the races held after 2017 in Spain?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the total money requested by entrepreneurs with height more than 1.85?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the the name of the customers who have a loan with amount more than 3000.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Show all video games with type Collectible card game.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Who is the \"CTO\" of club \"Hopkins Student Enterprises\"? Show the first name and last name.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Tell me the ages of the oldest and youngest students studying major 600.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the name, height and prominence of mountains which do not belong to the range 'Aberdare Range'?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "List the title of films that do not have any market estimation.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of the heads who are born outside the California state?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of the technicians aged either 36 or 37?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the total number of customers who use banks in New York City?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the ids of the students who attended courses in the statistics department in order of attendance date.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Which cities' temperature in March is lower than that in July or higher than that in Oct?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Show the name and phone of the customer without any mailshot.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "List the name of all the distinct customers who have orders with status \"Packing\".",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Show the musical nominee with award \"Bob Fosse\" or \"Cleavant Derricks\".",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Compute the mean price of procedures physician John Wen was trained in.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "List the number of invoices from Chicago, IL.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Count the number of cities in the state of Colorado.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the first and last names of people who payed more than the rooms' base prices.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "list the card number of all members whose hometown address includes word \"Kentucky\".",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the number of albums by the artist \"Metallica\".",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Return the name and gender of the staff who was assigned in 2016.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the id of the order which is shipped most recently.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Who are the nominees who were nominated for either of the Bob Fosse or Cleavant Derricks awards?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Show all the distinct product names with price higher than the average.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the venue of the competition \"1994 FIFA World Cup qualification\" hosted by \"Nanjing ( Jiangsu )\"?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is all the information about employees hired before June 21, 2002?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the distinct president votes on 08/30/2015?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the total number of hours per work and number of games played by David Shieber?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Which friend of Zach has the longest-lasting friendship?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of wines whose production year are before the year of all wines by Brander winery?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of parties that do not have delegates in election?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the first name and last name of the customer that has email \"luisg@embraer.com.br\"?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Give the ids and names of products with price lower than 600 or higher than 900.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find names and ids of all documents with document type code BK.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the file sizes and formats for all songs with a resolution lower than 800?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the number of vocal types used in song \"Le Pop\"",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many credits does course CIS-220 have, and what its description?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the total revenue of all companies whose main office is at Tokyo or Taiwan?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Count the number of credit cards that the customer with first name Blanche and last name Huels has.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "List the names of editors that are not on any journal committee.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "List the authors who do not have submission to any workshop.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Which students have professors as their advisors? Find their student ids.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Who has a friend that is from new york city?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the name of customers whose credit score is below the average credit scores of all customers.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Who performed the song named \"Le Pop\"?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Show the transaction type descriptions and dates if the share count is smaller than 10.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many professors who are from either Accounting or Biology department?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Which teachers teach in classroom 109? Give me their last names.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of the physicians who have 'senior' in their titles.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Who are the friends of Alice that are doctors?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Show the minimum amount of transactions whose type code is \"PUR\" and whose share count is bigger than 50.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many proteins are associated with an institution founded after 1880 or an institution with type \"Private\"?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the different reviewer names, movie titles, and stars for every rating where the reviewer had the same name as the director?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the number of routes whose destination airports are in Canada.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "display those employees who joined after 7th September, 1987.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the names of all reviewers who have ratings with a NULL value for the date.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Show flight number for all flights with more than 2000 distance.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of all the dorms that can accomdate more than 300 students?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many products are there under the category \"Seeds\"?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names and scores of wines that are made of white color grapes?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the average price for a lesson taught by Janessa Sawayn?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "How many weddings are there in year 2016?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the average age of students who are living in the dorm with the largest capacity.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "List the document ids for any documents with the status code done and the type code paper.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of the managers for gas stations that are operated by the ExxonMobil company?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the first and last name of the employee who reports to Nancy Edwards?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Which physicians are trained in procedures that are more expensive than 5000?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the full name, hire date, salary, and department id for employees without the letter M in their first name?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of customers with checking balances lower than the average checking balance?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Which colleges do the tryout players whose name starts with letter D go to?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of customers who use payment method \"Cash\"?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the names of projects that require between 100 and 300 hours?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the allergies and their types that the student with first name Lisa has? And order the result by name of allergies.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What is the number of colleges with a student population greater than 15000?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find the rooms of faculties with rank professor who live in building NEB.",
+        "response": "Filter problem"
+    },
+    {
+        "query": "What are the first and last names of all students who are living in a dorm with a TV Lounge?",
+        "response": "Filter problem"
+    },
+    {
+        "query": "Find all the distinct district names ordered by city area in descending.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the name and assets of each company, sorted in ascending order of company name?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "How many book clubs are there?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What is the shop name corresponding to the shop that opened in the most recent year?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the city that hosted some events in the most recent year. What is the id of this city?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the average checking balance.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Show the names and ages of editors and the theme of journals for which they serve on committees, in ascending alphabetical order of theme.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the names and countries of members?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What is the total number of rooms available in this inn?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "How many actors are there?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the dates and locations of performances?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Which winery is the wine that has the highest score from?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Which county has the largest population? Give me the name of the county.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Count the total number of bookings made.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List the names of courses in alphabetical order?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the total points of gymnasts, ordered by their floor exercise points descending?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What is the last name of the staff who has handled the first ever complaint?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Show the dates, places, and names of events in descending order of the attendance.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Show all member names and registered branch names sorted by register year.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List the names of wrestlers and the teams in elimination in descending order of days held.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List the names of patients who have made appointments.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Count the number of races.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What is the maximum and minimum market value of companies?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the names and locations of festivals?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Return the minimum, maximum, and average seating across all tracks.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the different product sizes?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the name of the user who has the largest number of followers.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What is the average number of bank customers?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the order id and customer id associated with the oldest order.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the different types of vocals?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Return the total number of distinct customers.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the names of the singers who sang the top 3 most highly rated songs and what countries do they hail from?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the purchase time, age and address of each member, and show the results in the order of purchase time.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List in alphabetic order all different amenities.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Return the names of all counties sorted by county name in descending alphabetical order.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the first names and offices of all instructors who have taught some course and also find the course description.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Show the name and the nationality of the oldest host.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Show the case burden of counties in descending order of population.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the names of schools with the top 3 largest size?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Count the number of programs.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What is the count of distinct employees with certificates?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the ids, full names, and phones of each customer?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "How many body builders are there?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Return the names of cities, ordered alphabetically.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Show the ages of gymnasts in descending order of total points.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "How many different kinds of lens brands are there?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the names of representatives in descending order of votes?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "list the first and last names, and the addresses of all employees in the ascending order of their birth date.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What is the joined year of the pilot of the highest rank?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List the official name and status of the city with the largest population.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the number of users who posted some tweets.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the teams that have the 5 oldest players?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the nationalities and ages of journalists?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the minimum, average, and maximum quantities ordered? Check all the invoices.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Show the season, the player, and the name of the country that player belongs to.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Count the number of institutions.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Count the number of distinct player positions.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the positions and teams of pilots?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are all the instruments used?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the author who achieved the highest score in a submission.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the names and type codes of products?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the aircrafts with top 3 shortest lengthes? List their names.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Show all transaction types.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List all the customers in increasing order of IDs.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List the customers first and last name of 10 least expensive invoices.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are all the catalog entry names?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the average and minimum price (in Euro) of all products?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "What are the clean and jerk score of the body builder with the highest total score?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List the name and phone number of all suppliers in the alphabetical order of their addresses.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the name of the user who gave the highest rating.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "How many different students play games?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Find the last name of the staff member who processed the complaint of the cheapest product.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "How many different captain ranks are there?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Return the themes of farm competitions, sorted by year ascending.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List the wheels and locations of the railways.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Count the number of statements.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "what is the number of different channel owners?",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Show the name and opening year for three churches that opened most recently.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "Count the number of accounts.",
+        "response": "Other simple problem"
+    },
+    {
+        "query": "List the name of products in ascending order of price.",
+        "response": "Other simple problem"
+    }
+]
